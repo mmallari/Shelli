@@ -2,11 +2,11 @@
 <CatapultTarget
   Version="2"
   Comment="MadCap HTML5 Target"
-  Type="WebHelp2"
+  Type="MsWord"
   Destinations=""
   GlossaryTermConversion="marked"
   SyncLingoProject="true"
-  TargetLanguage="en-us,de-de_../../../My Translated Projects/Localization.liprjf/Localization.liprj,es_../../../My Translated Projects/Localization.liprjf/Localization.liprj">
+  TargetLanguage="en-us">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
